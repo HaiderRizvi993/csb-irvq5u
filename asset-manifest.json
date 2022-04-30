@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://haiderrizvi993.github.io/csb-irvq5u/static/css/main.ecae065a.chunk.css",
+    "main.js": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/main.983a8b62.chunk.js",
+    "main.js.map": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/main.983a8b62.chunk.js.map",
+    "runtime-main.js": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/runtime-main.c2617d7b.js",
+    "runtime-main.js.map": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/runtime-main.c2617d7b.js.map",
+    "static/js/2.c78c4483.chunk.js": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/2.c78c4483.chunk.js",
+    "static/js/2.c78c4483.chunk.js.map": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/2.c78c4483.chunk.js.map",
+    "index.html": "https://haiderrizvi993.github.io/csb-irvq5u/index.html",
+    "static/css/main.ecae065a.chunk.css.map": "https://haiderrizvi993.github.io/csb-irvq5u/static/css/main.ecae065a.chunk.css.map",
+    "static/js/2.c78c4483.chunk.js.LICENSE.txt": "https://haiderrizvi993.github.io/csb-irvq5u/static/js/2.c78c4483.chunk.js.LICENSE.txt",
+    "static/media/cryptobckg.ebcf75b7.jpeg": "https://haiderrizvi993.github.io/csb-irvq5u/static/media/cryptobckg.ebcf75b7.jpeg",
+    "static/media/refresh.824c0db2.png": "https://haiderrizvi993.github.io/csb-irvq5u/static/media/refresh.824c0db2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2617d7b.js",
+    "static/js/2.c78c4483.chunk.js",
+    "static/css/main.ecae065a.chunk.css",
+    "static/js/main.983a8b62.chunk.js"
+  ]
+}
